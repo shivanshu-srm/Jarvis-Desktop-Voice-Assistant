@@ -49,7 +49,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📌Show your support
 
-Please ⭐️ this repository if this project helped you!
+Please ⭐️ this repository if this project helped you!..
+also give star ⭐️ for this project
 
 ## 📌License
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
